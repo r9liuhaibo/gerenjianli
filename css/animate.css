@@ -1,0 +1,13 @@
+/*.animate{*/
+    /*animation: 1s linear;*/
+/*}*/
+/*.infinite{*/
+    /*animation-iteration-count: infinite;*/
+/*}*/
+/*.forwards{*/
+    /*animation-fill-mode: forwards !important;*/
+/*}*/
+/*@keyframes ma {*/
+    /*0%{transform: translateY(0)}*/
+    /*100%{transform: translateY(-6rem)}*/
+/*}*/
